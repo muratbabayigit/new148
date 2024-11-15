@@ -16,5 +16,6 @@ public class p01 {
         }else{
             System.out.println("Girdiğiniz sayı çift sayı değildir");
         }
+
     }
 }
